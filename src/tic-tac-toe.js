@@ -85,7 +85,7 @@ class TicTacToe {
     }
 
     getFieldValue(rowIndex, colIndex) {
-        return this.fields[rowIndex][colIndex]
+        return this.fields[rowIndex][colIndex];
     }
 }
 
